@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Homer",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/11/simpsons_homer_1200x1200.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Marge",
+    "photo":"https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_marge_1200x1200.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bart",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_bart_1200x1200.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lisa",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_lisa_1200x1200.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Maggie",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/11/simpsons_maggie_1200x1200.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Itchy",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_itchy_1200x1200.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apu",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_apu_1200x1200.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Barney",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_barney_1200x1200.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Carl",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_carl_1200x1200.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Comic Book Guy",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_comicbookguy_1200x1200.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mrs. Krabappel",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_krabappel_1200x1200.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Krusty",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_krusty_1200x1200.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Lenny",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_lenny_1200x1200.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Martin",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_martin_1200x1200.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Milhouse",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_milhouse_1200x1200.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Moe",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_moe_1200x1200.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mr. Burns",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_burns_1200x1200.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Poochie",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_poochie_1200x1200.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Ralph",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_ralph_1200x1200.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Sea Captain",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_captain_1200x1200.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Principal Skinner",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_skinner_1200x1200.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Smithers",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_smithers_1200x1200.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Wendell",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_wendellborton_1200x1200.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Willie",
+    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_willie_1200x1200.jpg"
+  }
+  
+  
+]
