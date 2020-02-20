@@ -2,52 +2,52 @@
   {
     "id": 1,
     "name": "Homer",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/11/simpsons_homer_1200x1200.jpg"
+    "photo": "images/homer.jpg"
   },
   {
     "id": 2,
     "name": "Marge",
-    "photo":"https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_marge_1200x1200.jpg"
+    "photo":"images/marge.jpg"
   },
   {
     "id": 3,
     "name": "Bart",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_bart_1200x1200.jpg"
+    "photo": "images/bart.jpg"
   },
   {
     "id": 4,
     "name": "Lisa",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_lisa_1200x1200.jpg"
+    "photo": "images/lisa.jpg"
   },
   {
     "id": 5,
     "name": "Maggie",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/11/simpsons_maggie_1200x1200.jpg"
+    "photo": "images/maggie.jpg"
   },
   {
     "id": 6,
     "name": "Itchy",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_itchy_1200x1200.jpg"
+    "photo": "images/itchy.jpg"
   },
   {
     "id": 7,
     "name": "Apu",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_apu_1200x1200.jpg"
+    "photo": "images/apu.jpg"
   },
   {
     "id": 8,
     "name": "Barney",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_barney_1200x1200.jpg"
+    "photo": "images/barney.jpg"
   },
   {
     "id": 9,
     "name": "Carl",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_carl_1200x1200.jpg"
+    "photo": "images/carl.jpg"
   },
   {
     "id": 10,
     "name": "Comic Book Guy",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_comicbookguy_1200x1200.jpg"
+    "photo": "images/comic-book-guy.jpg"
   },
   {
     "id": 11,
