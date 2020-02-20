@@ -52,52 +52,52 @@
   {
     "id": 11,
     "name": "Mrs. Krabappel",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_krabappel_1200x1200.jpg"
+    "photo": "images/krabappel.jpg"
   },
   {
     "id": 12,
     "name": "Krusty",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_krusty_1200x1200.jpg"
+    "photo": "images/krusty.jpg"
   },
   {
     "id": 13,
     "name": "Lenny",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_lenny_1200x1200.jpg"
+    "photo": "images/lenny.jpg"
   },
   {
     "id": 14,
     "name": "Martin",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_martin_1200x1200.jpg"
+    "photo": "images/martin.jpg"
   },
   {
     "id": 15,
     "name": "Milhouse",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_milhouse_1200x1200.jpg"
+    "photo": "images/milhouse.jpg"
   },
   {
     "id": 16,
     "name": "Moe",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_moe_1200x1200.jpg"
+    "photo": "images/moe.jpg"
   },
   {
     "id": 17,
     "name": "Mr. Burns",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_burns_1200x1200.jpg"
+    "photo": "images/mr-burns.jpg"
   },
   {
     "id": 18,
     "name": "Poochie",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_poochie_1200x1200.jpg"
+    "photo": "images/poochie.jpg"
   },
   {
     "id": 19,
     "name": "Ralph",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_ralph_1200x1200.jpg"
+    "photo": "images/ralph.jpg"
   },
   {
     "id": 20,
     "name": "Sea Captain",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_captain_1200x1200.jpg"
+    "photo": "images/sea-captain.jpg"
   },
   {
     "id": 21,
