@@ -102,22 +102,22 @@
   {
     "id": 21,
     "name": "Principal Skinner",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_skinner_1200x1200.jpg"
+    "photo": "images/skinner.jpg"
   },
   {
     "id": 22,
     "name": "Smithers",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_smithers_1200x1200.jpg"
+    "photo": "images/smithers.jpg"
   },
   {
     "id": 23,
     "name": "Wendell",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_wendellborton_1200x1200.jpg"
+    "photo": "images/wendell.jpg"
   },
   {
     "id": 24,
     "name": "Willie",
-    "photo": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_willie_1200x1200.jpg"
+    "photo": "images/willie.jpg"
   }
   
   
