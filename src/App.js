@@ -82,7 +82,7 @@ class App extends Component {
   }
 
   makeMessage = () => {
-    return this.state.lastMove === "won" ? "God job, keep it up!"
+    return this.state.lastMove === "won" ? "Good job, keep it up!"
       : this.state.lastMove === "lost" ? "Oops, you picked that already. Your best score is " + this.state.highScore + ". Keep clicking to play again!!"
       : this.state.lastMove === "victory" ? "You picked them all, you win!! Keep clicking to play again!!"
       : "Click on characters below, but you can't pick the same character twice!" 
